@@ -1,0 +1,4 @@
+﻿# Python dependencies for Personal Finance Manager
+pandas>=1.5.0
+matplotlib>=3.7.0
+Python 3.8+
